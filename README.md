@@ -1,2 +1,3 @@
 # My-Dev5-Portfolio
-Gemaakt tijdens de lessen van Joris Hens.
+[Bekijk mijn andere projecten](https://github.com/gebruikersnaam/ander-project)
+
