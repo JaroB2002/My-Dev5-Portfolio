@@ -2,9 +2,9 @@
 [Bekijk mijn andere projecten](https://github.com/gebruikersnaam/ander-project)
 
 Lab 1: gemaakt met Zegher Baerts: https://github.com/zegher/LAB1-DEV5-SPEECH
-| Kolom 1   | Kolom 2   |
+| Welk labo   | Met wie  |
 |-----------|-----------|
-| Rij 1, kolom 1 | Rij 1, kolom 2 |
+| Lab 1 | Zegher Baerts |
 | Rij 2, kolom 1 | Rij 2, kolom 2 |
 | Rij 3, kolom 1 | Rij 3, kolom 2 |
 | Rij 4, kolom 1 | Rij 4, kolom 2 |
