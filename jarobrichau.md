@@ -1,7 +1,6 @@
 # My-Dev5-Portfolio
 
 
-Lab 1: gemaakt met Zegher Baerts: https://github.com/zegher/LAB1-DEV5-SPEECH
 | **Welk lab**   | Met wie   | Link labo   |
 |---------------|-----------|-----------|
 | Lab 1 | Zegher Baerts |  https://github.com/zegher/LAB1-DEV5-SPEECH  |
